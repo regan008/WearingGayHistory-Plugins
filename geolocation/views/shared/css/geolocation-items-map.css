@@ -9,7 +9,7 @@
 }
 
 #map_browse {
-    height: 436px; 
+    height: 550px; 
 }
 
 #map-links ul {
@@ -80,7 +80,7 @@ div.map-notification {
 
     #map_browse { 
         float:left;
-        width:70%;
+        width:100%;
         margin-bottom: 0 !important;
     }
 }
